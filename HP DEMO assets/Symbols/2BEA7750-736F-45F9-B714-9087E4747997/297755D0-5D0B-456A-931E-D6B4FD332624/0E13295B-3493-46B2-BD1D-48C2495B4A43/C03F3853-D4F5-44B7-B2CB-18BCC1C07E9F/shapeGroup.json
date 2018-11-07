@@ -1,0 +1,157 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C03F3853-D4F5-44B7-B2CB-18BCC1C07E9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 31.55756207674943,
+    "width": 117.3568281938328,
+    "x": 104.6431718061675,
+    "y": 0.7370203160270989
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8F1BB481-CE90-49F8-A733-75A7F41A3F5F"
+    },
+    {
+      "class": "shapePath",
+      "id": "B209BAD0-8667-417F-B229-9BD7C8E17C08"
+    },
+    {
+      "class": "shapePath",
+      "id": "63831AC4-D39F-4057-945C-636E87118773"
+    },
+    {
+      "class": "shapePath",
+      "id": "4178665A-257F-43FA-99FB-683A7A20CEA2"
+    },
+    {
+      "class": "shapePath",
+      "id": "C179ED50-AE0A-4FCA-825A-B803008287FD"
+    },
+    {
+      "class": "shapePath",
+      "id": "82AB4018-6851-42A2-87C6-B5D30037CD5D"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C830CDC-59F3-4049-9360-B7C84DA51AE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "B860E7CD-FDD4-420E-8E45-51B84C1DF92A"
+    },
+    {
+      "class": "shapePath",
+      "id": "9371B29D-A5F4-4069-AC56-FBE1832FBBA1"
+    },
+    {
+      "class": "shapePath",
+      "id": "5757F988-2711-4001-A1FE-E32521AE4B6D"
+    }
+  ],
+  "name": "update",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.4111049107142857
+    },
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "AvantGardeLT-Book",
+            "size": 64
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 31.55756,
+            "enabled": 1,
+            "modelID": "constraint_111a9d75-e34c-40ee-8b80-0e6a7595fcb7",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 117.3568
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_bda92379-52dc-4104-aae2-784c69d8e89f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}
