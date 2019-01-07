@@ -1,11 +1,11 @@
 {
-  "_class": "shapeGroup",
-  "booleanOperation": 0,
+  "_class": "rectangle",
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D5DD1E1E-5380-4F5D-99D6-D649CCCE89CC",
+  "do_objectID": "CD7EB4FA-8E68-45B4-BCFA-32CA5152BA53",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "14CB51E3-520D-412B-AEE3-3802E07DACA9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -13,38 +13,75 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "03358A24-62D9-4751-A1E2-5342356A2D0B",
     "height": 115,
     "width": 888,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": false,
   "hasClippingMask": true,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "1C219D65-1B14-4D28-BE4C-9C8518D9F19B"
-    }
-  ],
   "name": "Color/ tiny_bundle_group",
   "nameIsFixed": true,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6186E176-D4F6-47D1-9D6B-DC5C43E1E699",
     "endMarkerType": 0,
     "fills": [
       {
@@ -104,6 +141,5 @@
       "kModelPropertiesKey": {
       }
     }
-  },
-  "windingRule": 1
+  }
 }

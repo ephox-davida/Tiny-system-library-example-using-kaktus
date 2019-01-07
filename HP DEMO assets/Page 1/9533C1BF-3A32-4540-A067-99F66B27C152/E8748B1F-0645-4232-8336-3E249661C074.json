@@ -2,6 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": 0,
   "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
   "do_objectID": "E8748B1F-0645-4232-8336-3E249661C074",
   "exportOptions": {
     "_class": "exportOptions",
@@ -21,6 +22,7 @@
     "x": 605,
     "y": 225
   },
+  "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
     "_ref": "images/1b2bb64884207c0a204fe6fb4ceafae4f9eeab26.png",
@@ -45,5 +47,26 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 150,
+            "enabled": 1,
+            "modelID": "constraint_507e1958-6ea8-4662-9a7b-e2e87d36a0aa",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 350
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_e8a541f6-791f-44d6-be0b-6bf5fb90975b",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }
